@@ -1,0 +1,3 @@
+/usr/local/google/home/danalbert/src/lld-stack-dump-bug/build-bfd/CMakeFiles/rebuild_cache.dir
+/usr/local/google/home/danalbert/src/lld-stack-dump-bug/build-bfd/CMakeFiles/edit_cache.dir
+/usr/local/google/home/danalbert/src/lld-stack-dump-bug/build-bfd/CMakeFiles/application.dir

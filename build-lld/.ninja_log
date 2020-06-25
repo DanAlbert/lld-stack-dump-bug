@@ -1,0 +1,3 @@
+# ninja log v5
+0	76	1593120057543389106	CMakeFiles/application-lld.dir/application.cpp.o	9d07ba92af79f9e7
+76	112	1593120057579389721	/usr/local/google/home/danalbert/src/lld-stack-dump-bug/bin/application-lld	9b227585384a5828
